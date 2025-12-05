@@ -1,3 +1,5 @@
+#used this to get the summarised csv file info
+
 import pandas as pd
 
 df = pd.read_csv("cancer_risk.csv")
